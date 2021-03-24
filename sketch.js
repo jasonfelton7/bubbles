@@ -14,5 +14,5 @@ function draw() {
     
     fill(random(256), random(256), random(256));
     noStroke();
-    circle(circleX, circleY, random(300))
+    circle(circleX, circleY, random(300));
 }
